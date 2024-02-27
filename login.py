@@ -1,1 +1,1 @@
-print("Nuevo fichero!")
+print("Ajuste del nuevo fichero!")
